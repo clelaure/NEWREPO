@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personnes>
+	<ident>
+		<nom>LELAURE</nom>
+		<prenom>Christelle</prenom>
+		<datenaiss>25-10-1974</datenaiss>
+	</ident>
+	<adr1>9 impasse la noue aux bergers</adr1>
+	<cp>79700</cp>
+	<ville>ST AMAND SUR SEVRE</ville>
+	<pays>FRANCE</pays>
+</personnes>
