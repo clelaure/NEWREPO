@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE personnes SYSTEM "Exo1.dtd">
 <personnes>
-	<personne id="01">
+	<personne id="P01">
 		<ident>
 			<nom>LELAURE</nom>
 			<prenom>Christelle</prenom>
@@ -11,7 +12,7 @@
 		<ville>ST AMAND SUR SEVRE</ville>
 		<pays>FRANCE</pays>
 	</personne>
-	<personne id="02">
+	<personne id="P02">
 		<ident>
 			<nom>LELAURE</nom>
 			<prenom>Christelle</prenom>
