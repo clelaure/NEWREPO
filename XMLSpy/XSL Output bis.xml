@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<facturation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://clanphs.free.fr/orsys/xml/facturationtransfert.xsd">
+	<stat-factures>
+		<facture idfacture="23" stat-numfacture="23" stat-datefacture="2012-09-04" stat-type="Facture" nomClient="Pierre Pol">
+			<prixAvgArticle>9.95</prixAvgArticle>
+			<ligneAvg>74.625</ligneAvg>
+			<nbLignes>1</nbLignes>
+		</facture>
+		<facture idfacture="11" stat-numfacture="11" stat-refdevis="08" stat-datefacture="2012-07-05" stat-type="Facture" nomClient="Pierre Pol">
+			<prixAvgArticle>9.95</prixAvgArticle>
+			<ligneAvg>24.873</ligneAvg>
+			<nbLignes>1</nbLignes>
+		</facture>
+		<facture idfacture="5" stat-numfacture="5" stat-datefacture="2012-06-21" stat-type="facture" nomClient="Richard rostremer">
+			<prixAvgArticle>7.61666666666667</prixAvgArticle>
+			<ligneAvg>32.975</ligneAvg>
+			<nbLignes>3</nbLignes>
+		</facture>
+	</stat-factures>
+</facturation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<photos xmlns:fo="http://www.w3.org/1999/XSL/Format" theme="file:///C:/Users/orsys/AppData/Roaming/fond1905874716.png" OnlyComment="false" intercal="false">
+	<titre>My Album</titre>
+	<couv>
+		<image href="fond.jpg" path="file:///C:/Users/orsys/Desktop/formation/NEWREPO/IMAGES/"/>
+	</couv>
+	<pages titre="true">
+		<page>
+			<image href="basket.jpg" path="file:///C:/Users/orsys/Desktop/formation/NEWREPO/IMAGES/">Basket</image>
+			<image href="cat.jpg" path="file:///C:/Users/orsys/Desktop/formation/NEWREPO/IMAGES/">Cat</image>
+			<image href="flower.jpg" path="file:///C:/Users/orsys/Desktop/formation/NEWREPO/IMAGES/">Flower</image>
+			<image href="garden.jpg" path="file:///C:/Users/orsys/Desktop/formation/NEWREPO/IMAGES/">Garden</image>
+		</page>
+		<page>
+			<image href="scubadiving.jpg" path="file:///C:/Users/orsys/Desktop/formation/NEWREPO/IMAGES/">Scuba Diving</image>
+			<image href="ski.jpg" path="file:///C:/Users/orsys/Desktop/formation/NEWREPO/IMAGES/">Ski</image>
+			<image href="fichierSVG.svg" path="file:///C:/Users/orsys/Desktop/formation/NEWREPO/IMAGES/">Svg</image>
+		</page>
+	</pages>
+	<signature>desorbaix@free.fr</signature>
+</photos>

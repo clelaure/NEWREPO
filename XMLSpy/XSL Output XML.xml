@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factures>
+	<facture idfacture="23" nomClient="Pierre Pol">
+Une facture		
+		</facture>
+	<facture idfacture="11" nomClient="Pierre Pol">
+Une facture		
+		</facture>
+	<facture idfacture="5" nomClient="Richard rostremer">
+Une facture		
+		</facture>
+</factures>
